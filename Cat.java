@@ -22,6 +22,7 @@ public Cat(String name, int age) {
 }
 @Override
 public String toString() {
+	String news;
 	return "Cat [name=" + name + ", age=" + age + "]";
 }
 
